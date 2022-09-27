@@ -18,6 +18,16 @@
 
 - [Apresentação de *slides*](https://docs.google.com/presentation/d/1hTtmbd_hydWP5a5AvTSQ72eB8u7hdOHnnYuOjOAVJyA/edit?usp=sharing) do minicurso feita no SBBD, dia 21 de Setembro de 2022.
 
+## Dependências
+
+- conda install -c anaconda python
+- conda install -c anaconda jupyter
+- pip install 'git+https://github.com/PyTorchLightning/lightning-flash.git'
+- pip install 'git+https://github.com/PyTorchLightning/lightning-flash.git#egg=lightning-flash[image]'
+- conda install -c anaconda scikit-learn
+- pip install learn2learn
+- pip install Pillow==7.1.2
+
 ## Citação
 
 ```
